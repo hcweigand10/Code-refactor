@@ -87,7 +87,7 @@ p {
 /* benefits bar on right */
 .benefits {
     margin-right: 20px;
-    padding: 20px;
+    padding: 36px;
     clear: both;
     float: right;
     width: 20%;
@@ -98,12 +98,13 @@ p {
 
 /* ruleset for benefits bar */
 .benefits section {
-    margin-bottom: 32px;
+    margin-bottom: 31px;
     color: #ffffff;
 }
 
 /* benefits headings */
 .benefits h3 {
+    font-size: 30px;
     margin-bottom: 10px;
     text-align: center;
 }
@@ -128,7 +129,7 @@ p {
 
 /* content font size and spacing*/
 .content section p {
-    font-size: 17px;
+    font-size: 20px;
     line-height: 1.25;
 }
 
